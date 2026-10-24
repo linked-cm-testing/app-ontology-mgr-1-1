@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run ontology-mgr-1-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
